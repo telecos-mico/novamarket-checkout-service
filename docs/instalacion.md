@@ -1,0 +1,16 @@
+# Guía de instalación
+
+## Propósito
+Describir cómo configurar el servicio Checkout de NovaMarket.
+
+## Requisitos previos
+Tener Git instalado, acceso al repositorio y entorno configurado.
+
+## Preparación del entorno
+Clonar el repositorio y preparar el ambiente de ejecución.
+
+## Validación funcional
+Ejecutar el servicio y comprobar que responde correctamente.
+
+## Error común que debe evitarse
+No validar completamente el entorno antes de usar el sistema.
